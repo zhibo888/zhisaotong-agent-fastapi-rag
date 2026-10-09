@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environments
+.venv/
+venv/
+env/
+rag_env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+*secret*
+*.key
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Runtime
+.local/
+logs/
+*.log
+
+# Rebuildable vector database and local indexing ledger
+chroma_db/
+md5.text
+md5.text.*
+*.sqlite3
+*.sqlite3-*
+
+# Upstream knowledge documents have no explicit redistribution license.
+# Keep local copies for validation, but publish only data/demo_knowledge.txt.
+/data/故障排除.txt
+/data/扫地机器人100问.pdf
+/data/扫地机器人100问2.txt
+/data/扫拖一体机器人100问.txt
+/data/维护保养.txt
+/data/选购指南.txt
+
+# Temporary/cache files
+*.tmp
+.cache/
+
+# Local-only validation artifacts
+docs/test-results/*.xml
+PROJECT_REPRODUCTION_REPORT.md

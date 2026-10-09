@@ -1,0 +1,10 @@
+# API Keys 从 Windows 环境变量读取
+# DASHSCOPE_API_KEY / AMAP_API_KEY
+
+external_data_path: "data/external/records.csv"
+
+demo_user_id: "1001"
+
+gaode_base_url: "https://restapi.amap.com"
+
+gaode_timeout: 10

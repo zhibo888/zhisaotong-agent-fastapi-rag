@@ -1,0 +1,14 @@
+{
+  "vectors": 330,
+  "md5_records": 7,
+  "index_ledger_documents_consistent": true,
+  "sources": [
+    "demo_knowledge.txt",
+    "扫地机器人100问.pdf",
+    "扫地机器人100问2.txt",
+    "扫拖一体机器人100问.txt",
+    "故障排除.txt",
+    "维护保养.txt",
+    "选购指南.txt"
+  ]
+}

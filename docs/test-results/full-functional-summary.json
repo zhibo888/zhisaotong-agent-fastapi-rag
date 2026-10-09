@@ -1,0 +1,14 @@
+{
+  "tests": 59,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "duration_seconds": 41.709,
+  "by_module": {
+    "tests.test_core": 33,
+    "tests.test_functional": 16,
+    "tests.test_live": 10
+  },
+  "offline": 49,
+  "live": 10
+}
